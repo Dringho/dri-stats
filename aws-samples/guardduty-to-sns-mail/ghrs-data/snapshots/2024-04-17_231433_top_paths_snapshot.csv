@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/aws-samples/guardduty-to-sns-mail/tree/main,6,1
+/aws-samples/guardduty-to-sns-mail/tree/main/architecture,6,1
+/aws-samples/guardduty-to-sns-mail,5,4
+/aws-samples/guardduty-to-sns-mail/blob/main/architecture/GuardDuty%20to%20SNS.png,2,1
+/aws-samples/guardduty-to-sns-mail/blob/main/architecture/mail-sample.png,2,1
+/aws-samples/guardduty-to-sns-mail/blob/main/cdk.json,2,1
+/aws-samples/guardduty-to-sns-mail/blob/main/requirements.txt,2,1
+/aws-samples/guardduty-to-sns-mail/tree/main/guardduty_eb,2,1
