@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/aws-samples/guardduty-to-sns-mail/blob/main/guardduty_eb/guardduty_eb_stack.py,8,1
+/aws-samples/guardduty-to-sns-mail/tree/main,7,1
+/aws-samples/guardduty-to-sns-mail,6,5
+/aws-samples/guardduty-to-sns-mail/tree/main/guardduty_eb,6,2
+/aws-samples/guardduty-to-sns-mail/blob/main/app.py,6,1
+/aws-samples/guardduty-to-sns-mail/tree/main/architecture,6,1
+/aws-samples/guardduty-to-sns-mail/blob/main/cdk.json,4,2
+/aws-samples/guardduty-to-sns-mail/blob/main/architecture/GuardDuty%20to%20SNS.png,2,1
+/aws-samples/guardduty-to-sns-mail/blob/main/architecture/mail-sample.png,2,1
+/aws-samples/guardduty-to-sns-mail/blob/main/guardduty_eb/__init__.py,2,1
