@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/aws-samples/guardduty-to-sns-mail/blob/main/guardduty-to-sns.yaml,12,1
+/aws-samples/guardduty-to-sns-mail/tree/main,5,1
+/aws-samples/guardduty-to-sns-mail,4,4
+/aws-samples/guardduty-to-sns-mail/blob/main/guardduty_eb/guardduty_eb_stack.py,2,1
