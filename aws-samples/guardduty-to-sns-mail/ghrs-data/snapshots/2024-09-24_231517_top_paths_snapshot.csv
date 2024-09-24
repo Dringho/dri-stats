@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/aws-samples/guardduty-to-sns-mail,4,3
+/aws-samples/guardduty-to-sns-mail/blob/main/guardduty-to-sns.yaml,4,2
+/aws-samples/guardduty-to-sns-mail/blob/main/README.md,2,1
+/aws-samples/guardduty-to-sns-mail/blob/main/requirements.txt,2,1
+/aws-samples/guardduty-to-sns-mail/tree/main/architecture,2,1
+/aws-samples/guardduty-to-sns-mail/tree/main/guardduty_eb,2,1
